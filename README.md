@@ -22,7 +22,6 @@
 - 📝 I write articles at [checkmeout.hashnode.dev](https://checkmeout.hashnode.dev)
 - 💬 Ask me about **Java, Python, React, or ML**
 - 📫 Reach me at **[notlakshitha@gmail.com](mailto:notlakshitha@gmail.com)**
-- 🌐 [notlakshitha.dev](https://www.notlakshitha.dev/)
 
 ---
 
